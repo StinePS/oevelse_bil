@@ -1,9 +1,19 @@
 body {
-    background-color: #c6c6c6;
+	background-color: #dea3a3;
 }
 
-h1 {}
+h1 {
+	color: aqua;
+	font-size: 3rem;
+	text-align: center;
+}
 
-h2 {}
+h2 {
+	color: darkblue;
+	font-size: 2rem;
+}
 
-p {}
+p {
+	color: blueviolet;
+	font-size: 1.5rem;
+}
